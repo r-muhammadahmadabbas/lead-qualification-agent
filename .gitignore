@@ -14,11 +14,11 @@ htmlcov/
 .ruff_cache/
 .mypy_cache/
 
-.env
 logs/
 *.log
 
 .DS_Store
 Thumbs.db
 .idea/
-.vscode/
+config.bat
+node_modules
