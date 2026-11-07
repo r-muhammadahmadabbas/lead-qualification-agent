@@ -1,0 +1,44 @@
+{
+  "companies": [
+    {
+      "name": "TechCorp Solutions",
+      "industry": "Enterprise Software",
+      "size": "500-1000",
+      "budget_range": "high",
+      "previous_projects": ["web3 integration", "smart contracts"],
+      "website": "techcorp.com"
+    },
+    {
+      "name": "StartupXYZ",
+      "industry": "Fintech",
+      "size": "10-50",
+      "budget_range": "medium",
+      "previous_projects": ["defi platform"],
+      "website": "startupxyz.com"
+    },
+    {
+      "name": "Creative Agency Co",
+      "industry": "Marketing",
+      "size": "20-100",
+      "budget_range": "medium",
+      "previous_projects": ["nft marketing"],
+      "website": "creativeagency.com"
+    },
+    {
+      "name": "BigBank Financial",
+      "industry": "Banking",
+      "size": "1000+",
+      "budget_range": "high",
+      "previous_projects": ["blockchain settlement", "digital assets"],
+      "website": "bigbank.com"
+    },
+    {
+      "name": "SmallBiz Local",
+      "industry": "Retail",
+      "size": "1-10",
+      "budget_range": "low",
+      "previous_projects": [],
+      "website": "smallbiz.com"
+    }
+  ]
+}
